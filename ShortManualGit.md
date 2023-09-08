@@ -1,4 +1,4 @@
-# User tutorial for use Git
+# User's tutorial for use Git
 ## General commands
 <span style="color:green">*git 1 gen
 ![Git 1](https://i.imgur.com/PWn4v5c.png)
